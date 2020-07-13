@@ -1,0 +1,8 @@
+02/06/2020 16:21:27.147 | [RABBIT]    | info  | Conectado a 54.233.206.205:5672 - fila: robo-reneg-imob-usuarios
+02/06/2020 16:21:27.151 | [RABBIT]    | info  | criando canal
+02/06/2020 16:21:27.226 | [RABBIT]    | info  | Conectado a 54.233.206.205:5672 - fila: robo-reneg-imob-usuarios
+02/06/2020 16:21:27.226 | [RABBIT]    | info  | criando canal
+02/06/2020 16:21:27.292 | [RABBIT]    | info  | Conectado a 54.233.206.205:5672 - fila: ND-ConsultarIncorporacao-SANTANDER_IMOB
+02/06/2020 16:21:27.293 | [RABBIT]    | info  | criando canal
+02/06/2020 16:21:27.308 | [RABBIT]    | info  | prefetch definido: 1
+02/06/2020 16:21:27.308 | [RABBIT]    | info  | iniciando consumo

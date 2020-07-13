@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+</head>
+<body class="container">
+    <br><br><br>
+    <form name="nomeForm" method="POST" enctype="multipart/form-data" action="http://localhost:3000/upload">
+        <div class="row">
+            <div class="col-md-6">Arquivo</div>
+            <div class="col-md-6">
+                <input type="file" name="teste_arquivo">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12"><input type="button" name="env" value="Enviar" onclick="document.nomeForm.submit();"></div>
+        </div>
+    </form>
+</body>
+</html>
