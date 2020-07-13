@@ -1,0 +1,14 @@
+02/06/2020 16:21:27.090 | [RABBIT]    | info  | Conectado a 54.233.206.205:5672 - fila: robo-reneg-imob-usuarios
+02/06/2020 16:21:27.094 | [RABBIT]    | info  | criando canal
+02/06/2020 16:21:27.173 | [RABBIT]    | info  | Conectado a 54.233.206.205:5672 - fila: ND-ConsultarAtualizacaoQuitacao-SANTANDER_IMOB
+02/06/2020 16:21:27.174 | [RABBIT]    | info  | criando canal
+02/06/2020 16:21:27.188 | [RABBIT]    | info  | prefetch definido: 1
+02/06/2020 16:21:27.188 | [RABBIT]    | info  | iniciando consumo
+02/06/2020 16:21:27.259 | [RABBIT]    | info  | Conectado a 54.233.206.205:5672 - fila: ND-ConfirmarAtualizacao-SANTANDER_IMOB
+02/06/2020 16:21:27.260 | [RABBIT]    | info  | criando canal
+02/06/2020 16:21:27.277 | [RABBIT]    | info  | prefetch definido: 1
+02/06/2020 16:21:27.278 | [RABBIT]    | info  | iniciando consumo
+02/06/2020 16:21:27.350 | [RABBIT]    | info  | Conectado a 54.233.206.205:5672 - fila: robo-reneg-enriquecimento-SANTANDER_IMOB
+02/06/2020 16:21:27.351 | [RABBIT]    | info  | criando canal
+02/06/2020 16:21:27.365 | [RABBIT]    | info  | prefetch definido: 1
+02/06/2020 16:21:27.366 | [RABBIT]    | info  | iniciando consumo
